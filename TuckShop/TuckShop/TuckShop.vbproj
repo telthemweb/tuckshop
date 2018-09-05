@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2DEB720A-FB88-4023-A037-F0051E370F9D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>TuckShop.My.MyApplication</StartupObject>
+    <RootNamespace>TuckShop</RootNamespace>
+    <AssemblyName>TuckShop</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>TuckShop.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>TuckShop.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.10.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Batch_Entry.Designer.vb">
+      <DependentUpon>Batch_Entry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Batch_Entry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Batch_List.Designer.vb">
+      <DependentUpon>Batch_List.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Batch_List.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatabaseCon.vb" />
+    <Compile Include="ErrarValidform.Designer.vb">
+      <DependentUpon>ErrarValidform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ErrarValidform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Product_Entry.Designer.vb">
+      <DependentUpon>Product_Entry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Product_Entry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product_List.Designer.vb">
+      <DependentUpon>Product_List.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Product_List.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="publicvariables.vb" />
+    <Compile Include="SaveModule.vb" />
+    <Compile Include="sqlQuery.vb" />
+    <Compile Include="StudentList.Designer.vb">
+      <DependentUpon>StudentList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StudentList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student_account.Designer.vb">
+      <DependentUpon>Student_account.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Student_account.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Success.Designer.vb">
+      <DependentUpon>Success.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Success.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supplier.Designer.vb">
+      <DependentUpon>Supplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Supplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierList.Designer.vb">
+      <DependentUpon>SupplierList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TuckshopLibrary.vb" />
+    <Compile Include="UsersMode.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Batch_Entry.resx">
+      <DependentUpon>Batch_Entry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Batch_List.resx">
+      <DependentUpon>Batch_List.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ErrarValidform.resx">
+      <DependentUpon>ErrarValidform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product_Entry.resx">
+      <DependentUpon>Product_Entry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product_List.resx">
+      <DependentUpon>Product_List.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentList.resx">
+      <DependentUpon>StudentList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student_account.resx">
+      <DependentUpon>Student_account.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Success.resx">
+      <DependentUpon>Success.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supplier.resx">
+      <DependentUpon>Supplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupplierList.resx">
+      <DependentUpon>SupplierList.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apply_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1 %2819%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %285%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %289%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DeleteRed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %284%29~1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\attendance_list_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\girl-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\006-dashboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %283%29~3.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

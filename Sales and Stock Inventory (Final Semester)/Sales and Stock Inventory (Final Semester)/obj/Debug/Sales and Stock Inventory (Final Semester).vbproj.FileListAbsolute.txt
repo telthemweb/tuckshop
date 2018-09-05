@@ -1,0 +1,120 @@
+C:\Users\John Cañete\Documents\Visual Studio 2008\Projects\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).exe
+C:\Users\John Cañete\Documents\Visual Studio 2008\Projects\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).pdb
+C:\Users\John Cañete\Documents\Visual Studio 2008\Projects\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).xml
+C:\Users\John Cañete\Documents\Visual Studio 2008\Projects\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\John Cañete\Documents\Visual Studio 2008\Projects\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmLogin.resources
+C:\Users\John Cañete\Documents\Visual Studio 2008\Projects\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.Resources.resources
+C:\Users\John Cañete\Documents\Visual Studio 2008\Projects\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).vbproj.GenerateResource.Cache
+C:\Users\John Cañete\Documents\Visual Studio 2008\Projects\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).exe
+C:\Users\John Cañete\Documents\Visual Studio 2008\Projects\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).xml
+C:\Users\John Cañete\Documents\Visual Studio 2008\Projects\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).pdb
+C:\Users\John Cañete\Documents\Visual Studio 2008\Projects\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmMain.resources
+C:\Users\John Cañete\Documents\Visual Studio 2008\Projects\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmItem.resources
+C:\Users\John Cañete\Documents\Visual Studio 2008\Projects\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmLoadItem.resources
+C:\Users\John Cañete\Documents\Visual Studio 2008\Projects\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmtransaction.resources
+F:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).exe
+F:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).xml
+F:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).pdb
+F:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).exe
+F:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).pdb
+F:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).xml
+F:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\ResolveAssemblyReference.cache
+F:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmItem.resources
+F:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmLoadItem.resources
+F:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmLogin.resources
+F:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmMain.resources
+F:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmtransaction.resources
+F:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.Resources.resources
+F:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).vbproj.GenerateResource.Cache
+F:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmpayment.resources
+E:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).exe
+E:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).xml
+E:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).pdb
+E:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).exe
+E:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).pdb
+E:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).xml
+E:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\ResolveAssemblyReference.cache
+E:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmItem.resources
+E:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmLoadItem.resources
+E:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmLogin.resources
+E:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmMain.resources
+E:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmpayment.resources
+E:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmtransaction.resources
+E:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.Resources.resources
+E:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).vbproj.GenerateResource.Cache
+F:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).exe
+F:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).xml
+F:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).pdb
+F:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).exe
+F:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).pdb
+F:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).xml
+F:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\ResolveAssemblyReference.cache
+F:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmItem.resources
+F:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmLoadItem.resources
+F:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmLogin.resources
+F:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmMain.resources
+F:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmpayment.resources
+F:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmtransaction.resources
+F:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.Resources.resources
+F:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).vbproj.GenerateResource.Cache
+G:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).exe
+G:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).xml
+G:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).pdb
+E:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).exe
+E:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).xml
+E:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).pdb
+E:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).exe
+E:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).pdb
+E:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).xml
+E:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\ResolveAssemblyReference.cache
+E:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmItem.resources
+E:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmLoadItem.resources
+E:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmLogin.resources
+E:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmMain.resources
+E:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmpayment.resources
+E:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmtransaction.resources
+E:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.Resources.resources
+E:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).vbproj.GenerateResource.Cache
+E:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmtransactiondetail.resources
+F:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmsalesreport.resources
+F:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmtransactiondetail.resources
+E:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmsalesreport.resources
+G:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).exe
+G:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).xml
+G:\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).pdb
+G:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).exe
+G:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).pdb
+G:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).xml
+G:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\ResolveAssemblyReference.cache
+G:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmItem.resources
+G:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmLoadItem.resources
+G:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmLogin.resources
+G:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmMain.resources
+G:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmpayment.resources
+G:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmsalesreport.resources
+G:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmtransaction.resources
+G:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmtransactiondetail.resources
+G:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.Resources.resources
+G:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).vbproj.GenerateResource.Cache
+E:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmsalesreport.resources
+E:\ \Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmtransactiondetail.resources
+C:\Users\joken\Desktop\KCCCanSIS\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).exe
+C:\Users\joken\Desktop\KCCCanSIS\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).xml
+C:\Users\joken\Desktop\KCCCanSIS\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).pdb
+C:\Users\joken\Desktop\KCCCanSIS\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).exe
+C:\Users\joken\Desktop\KCCCanSIS\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).pdb
+C:\Users\joken\Desktop\KCCCanSIS\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\bin\Debug\Sales and Stock Inventory (Final Semester).xml
+C:\Users\joken\Desktop\KCCCanSIS\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\joken\Desktop\KCCCanSIS\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmItem.resources
+C:\Users\joken\Desktop\KCCCanSIS\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmLoadItem.resources
+C:\Users\joken\Desktop\KCCCanSIS\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmLogin.resources
+C:\Users\joken\Desktop\KCCCanSIS\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmMain.resources
+C:\Users\joken\Desktop\KCCCanSIS\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmpayment.resources
+C:\Users\joken\Desktop\KCCCanSIS\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmsalesreport.resources
+C:\Users\joken\Desktop\KCCCanSIS\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmtransaction.resources
+C:\Users\joken\Desktop\KCCCanSIS\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.frmtransactiondetail.resources
+C:\Users\joken\Desktop\KCCCanSIS\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales_and_Stock_Inventory__Final_Semester_.Resources.resources
+C:\Users\joken\Desktop\KCCCanSIS\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).vbproj.GenerateResource.Cache
+C:\Users\Telthem\Desktop\Catherine\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).exe
+C:\Users\Telthem\Desktop\Catherine\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).xml
+C:\Users\Telthem\Desktop\Catherine\Sales and Stock Inventory (Final Semester)\Sales and Stock Inventory (Final Semester)\obj\Debug\Sales and Stock Inventory (Final Semester).pdb

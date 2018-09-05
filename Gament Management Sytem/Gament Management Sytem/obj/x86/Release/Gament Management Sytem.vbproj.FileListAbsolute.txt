@@ -1,0 +1,25 @@
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\bin\Release\Gament Management Sytem.exe
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\bin\Release\Gament Management Sytem.pdb
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\bin\Release\Gament Management Sytem.xml
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament_Management_Sytem.Login.resources
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament_Management_Sytem.Resources.resources
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament Management Sytem.vbproj.GenerateResource.Cache
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament Management Sytem.exe
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament Management Sytem.xml
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament Management Sytem.pdb
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament_Management_Sytem.MainPage.resources
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament_Management_Sytem.OrderDetails.resources
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament_Management_Sytem.ProductEntry.resources
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament_Management_Sytem.Purchase.resources
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament_Management_Sytem.StockDetails.resources
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament_Management_Sytem.SupplierEntry.resources
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament_Management_Sytem.Customer_Entry.resources
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament_Management_Sytem.Customer_List.resources
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament_Management_Sytem.Sales_Entry.resources
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament_Management_Sytem.UserRegistration.resources
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\bin\Release\Gament Management Sytem.exe.config
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament_Management_Sytem.SupplierList.resources
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament_Management_Sytem.ProductList.resources
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament_Management_Sytem.PurchaseReceipt.resources
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament_Management_Sytem.Purchase_List.resources
+C:\Users\Telthem\Desktop\ellah_final\Gament Management Sytem\Gament Management Sytem\obj\x86\Release\Gament_Management_Sytem.Sales_ListView.resources

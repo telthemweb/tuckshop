@@ -1,0 +1,208 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GamentManagementSytem
+</name>
+</assembly>
+<members>
+<member name="P:Gament_Management_Sytem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources._003_umbrella">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources._043_creative_market">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources._059_pervert">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources._1__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources._1__6_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources._5853cfade694f413edea855c">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.Actions_list_add_user_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.AddFile_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.attendance_list_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.chri2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.chri21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.chris">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.chris1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.Close_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.contact_us1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.Delete">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.images__3__3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.Info_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.menu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.order_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.print1600">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.Printer_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.Purchase_Order_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.Save_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.shopping_3313868">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.ticket_purchase">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.Updates">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gament_Management_Sytem.My.Resources.Resources.user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Gament_Management_Sytem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Gament_Management_Sytem.gamentDataSet.productsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gament_Management_Sytem.gamentDataSet.SupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gament_Management_Sytem.gamentDataSet.productsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gament_Management_Sytem.gamentDataSet.SupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gament_Management_Sytem.gamentDataSet.productsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gament_Management_Sytem.gamentDataSet.SupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gament_Management_Sytem.gamentDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Gament_Management_Sytem.gamentDataSetTableAdapters.productsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gament_Management_Sytem.gamentDataSetTableAdapters.SupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Gament_Management_Sytem.gamentDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Gament_Management_Sytem.gamentDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Gament_Management_Sytem.gamentDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Gament_Management_Sytem.gamentDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Gament_Management_Sytem.gamentDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Gament_Management_Sytem.gamentDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Gament_Management_Sytem.gamentDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Gament_Management_Sytem.gamentDataSetTableAdapters.TableAdapterManager.UpdateAll(Gament_Management_Sytem.gamentDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Gament_Management_Sytem.gamentDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Gament_Management_Sytem.gamentDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Gament_Management_Sytem.gamentDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

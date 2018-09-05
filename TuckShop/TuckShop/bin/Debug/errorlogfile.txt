@@ -1,0 +1,12 @@
+Saturday, 23 June, 2018 1:45:44 ===>> Fill: SelectCommand.Connection property has not been initialized.
+Sunday, 24 June, 2018 20:34:29 ===>> Table 'librarysm. bookdetails' doesn't exist
+Sunday, 24 June, 2018 20:41:32 ===>> Table 'librarysm. bookdetails' doesn't exist
+Saturday, 21 July, 2018 21:42:08 ===>> There is no row at position 0.
+Saturday, 21 July, 2018 21:42:27 ===>> There is no row at position 0.
+Saturday, 21 July, 2018 21:43:51 ===>> There is no row at position 0.
+Saturday, 21 July, 2018 21:48:10 ===>> There is no row at position 0.
+Saturday, 21 July, 2018 21:48:31 ===>> Conversion from string "SSNB100" to type 'Integer' is not valid.
+Saturday, 18 August, 2018 9:12:19 ===>> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'Available'' at line 1
+Thursday, 30 August, 2018 22:37:55 ===>> Fill: SelectCommand.Connection property has not been initialized.
+Thursday, 30 August, 2018 22:38:19 ===>> Fill: SelectCommand.Connection property has not been initialized.
+Wednesday, 5 September, 2018 12:09:10 ===>> Conversion from string "CH1001" to type 'Integer' is not valid.

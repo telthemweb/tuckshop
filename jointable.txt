@@ -1,0 +1,14 @@
+SELECT tblproduct.ProductNo, tblgenericname.genericname, tblproduct.BrandName, 
+tblproduct.Quantity, tblproduct.PurchasedDate, tblproduct.ExpirationDate 
+from tblproduct
+join tblGenericName on tblproduct.Genericno = tblgenericname.genericno
+join tblcompany on tblproduct.CompanyNo = tblcompany.CompanyNo 
+where tblcompany.CompanyName like '" & cmb_com_load.Text & "'order by BrandName
+
+
+
+SELECT Subjects.SubjectName, Subjects.SubjectID, Tests.Score
+FROM ( Students INNER JOIN Subjects ON Students.StudentID =
+Subjects.StudentID) INNER JOIN Tests ON Subjects.SubjectID = Tests.SubjectID
+WHERE (Students.Surname = '<Student'sSurname>') AND (Students.FirstName
+= '<Student'sFirstName>')
